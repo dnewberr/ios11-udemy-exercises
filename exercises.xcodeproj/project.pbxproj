@@ -13,7 +13,6 @@
 		CD1C46502124EDC900BE61BB /* FingersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD1C46492124EDC900BE61BB /* FingersViewController.swift */; };
 		CD1C46512124EDC900BE61BB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD1C464A2124EDC900BE61BB /* AppDelegate.swift */; };
 		CD1C46522124EDC900BE61BB /* CatAgeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD1C464B2124EDC900BE61BB /* CatAgeViewController.swift */; };
-		CD1C46532124EDC900BE61BB /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CD1C464C2124EDC900BE61BB /* Info.plist */; };
 		CD1C46552124F15200BE61BB /* PrimeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD1C46542124F15200BE61BB /* PrimeViewController.swift */; };
 		CD1C46572124F67800BE61BB /* EggTimerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD1C46562124F67800BE61BB /* EggTimerViewController.swift */; };
 		CD1C46592124FB7A00BE61BB /* TimesTablesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD1C46582124FB7A00BE61BB /* TimesTablesViewController.swift */; };
@@ -152,7 +151,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CD1C46532124EDC900BE61BB /* Info.plist in Resources */,
 				CD1C464F2124EDC900BE61BB /* Main.storyboard in Resources */,
 				CD1C464D2124EDC900BE61BB /* Assets.xcassets in Resources */,
 				CD1C464E2124EDC900BE61BB /* LaunchScreen.storyboard in Resources */,
